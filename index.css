@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 464px;
+   
+    
+}
+
+#input-el{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    border-color: forestgreen;
+    border-radius: 0%;
+    border-style:solid;
+    border-width: 1px;
+    box-sizing: border-box;
+}
+
+#input-btn{
+    margin-top: 5px;
+    font-weight: bold;
+    color: white;
+    background-color: forestgreen;
+    border-radius: 0%;
+    border: none;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 40px;
+    width: 150px;
+    margin-right: 4px;
+
+}
+#delete-btn{
+    margin-top: 5px;
+    font-weight: bold;
+    color:forestgreen;
+    background-color: white;
+    border-radius: 0%;
+    border:solid;
+    border-color: forestgreen;
+    border-width: 1px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 40px;
+    width: 150px;
+    
+
+}
+#tab-btn{
+    margin-top: 5px;
+    font-weight: bold;
+    color: white;
+    background-color: forestgreen;
+    border-radius: 0%;
+    border: none;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 40px;
+    width: 150px;
+    margin-right: 3px;
+
+}
+ul {
+padding-left: 0%;
+margin-top: 15px;
+
+    
+}
+
+li {
+    padding-top: 5px;
+    list-style-type: none;
+}
+
+a {
+    color: forestgreen;
+}
